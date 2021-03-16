@@ -1,7 +1,7 @@
 ### Stats
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cryancaire/basic-math-helper-npm?style=plastic)
-![Lines of code](https://img.shields.io/tokei/lines/github/cryancaire/basic-math-helper-npm?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/cryancaire/basic-math-helper-npm?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cryancaire/online-pong-maybe?style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/cryancaire/online-pong-maybe?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/cryancaire/online-pong-maybe?style=plastic)
 [![Generic badge](https://img.shields.io/badge/Language-Javascript-yellow.svg?syle=plastic)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Language-CSS-blue.svg?syle=plastic)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Language-HTML-orange.svg?syle=plastic)](https://shields.io/)
