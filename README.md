@@ -7,7 +7,7 @@
 [![Generic badge](https://img.shields.io/badge/Language-HTML-orange.svg?syle=plastic)](https://shields.io/)
 
 ![GitHub followers](https://img.shields.io/github/followers/cryancaire?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/cryancaire?style=social)****
+![Twitter Follow](https://img.shields.io/twitter/follow/cryancaire?style=social)
 
 ## What is this?
 Just a for-fun project I am attempting to work on. It might turn out to be an online pong game using sockets, javascript and node.
